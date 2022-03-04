@@ -1,6 +1,6 @@
 # Green Revolution in India: Wheat-Rice production and export prediction
 
-India tops rice, pulses, wheat and spices in the world production table. Although the **third major sector contributing to the Indian economy is agriculture** (and other related sectors), it accounts for only about *17%* of GDP but provides about *60%* of the total number of jobs available in India. India has distinct advantages of providing the country-wide cultivation of varied crops with the highest arable land area (*60.44%*) of *179.8* million hectares and varied agro-based climatic conditions.
+India tops rice, pulses, wheat and spices in the world production table. Although the **third major sector contributing to the Indian economy is agriculture** (and other related sectors), it accounts for only about *17%* of GDP but provides about *60%* of the total number of jobs available in India. India has distinct advantages of providing the country-wide cultivation of varied crops with the highest arable land area (*60.44%*) of *179.8 million* hectares and varied agro-based climatic conditions.
 
 India 's agricultural (primary) sector has a crucial role to play in politics, economics and society. In the Global South, an enormous technology transition took place in the 1960s that succeeded in increased agricultural production. The transition from centuries-old methods of cultivation to mechanization has not only changed the productivity of horticulture, but also the lives of millions of people and the community.
 
